@@ -198,7 +198,7 @@ The project contains multiple experiment runners located in `src/experiments/CSP
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Verticallier/1D-Cutting-Stock-Optimization.git](https://github.com/username/1D-Cutting-Stock-Optimization.git)
+   git clone [https://github.com/Verticallier/1D-Cutting-Stock-Optimization.git](https://github.com/Verticallier/1D-Cutting-Stock-Optimization.git)
    ```
 2. **Open in IntelliJ IDEA.**
 
