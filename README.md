@@ -211,12 +211,10 @@ The project contains multiple experiment runners located in `src/experiments/CSP
 
 ---
 
-### 2. 🏆 Key Results (Önemli Sonuçlar - Opsiyonel ama Etkileyici)
-"Results are in the folder" demek yerine, elde ettiğin o muazzam farkı (Greedy vs Adaptive) küçük bir tablo ile burada gösterirsen projenin etkisi artar. (Verileri analiz ettiğimiz dosyalardan aldım).
 
-**Bunu "Experimental Results" başlığı altına ekleyebilirsin:**
 
-```markdown
+
+
 ### 🏆 Performance Highlights
 The Adaptive GA significantly outperforms the Greedy heuristic, especially in complex instances. Below is a sample comparison from **Instance 6**:
 
@@ -227,7 +225,7 @@ The Adaptive GA significantly outperforms the Greedy heuristic, especially in co
 | **Adaptive GA (Proposed)** | **66.55** | **89.4%** |
 
 *Note: Lower waste indicates better performance.*
-```
+
 
 
 ## 📊 Component Summary
