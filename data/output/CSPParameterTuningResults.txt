@@ -1,0 +1,50 @@
+PopSize: 10 | Instance: I1
+[GA-CSP-Random-ISG] (CSPModel) BEST:26.4 
+PopSize: 10 | Instance: I2
+[GA-CSP-Random-ISG] (CSPModel) BEST:22.0 
+PopSize: 10 | Instance: I3
+[GA-CSP-Random-ISG] (CSPModel) BEST:22.0 
+PopSize: 10 | Instance: I4
+[GA-CSP-Random-ISG] (CSPModel) BEST:22.0 
+PopSize: 10 | Instance: I5
+[GA-CSP-Random-ISG] (CSPModel) BEST:21.2 
+PopSize: 20 | Instance: I1
+[GA-CSP-Random-ISG] (CSPModel) BEST:8.1 
+PopSize: 20 | Instance: I2
+[GA-CSP-Random-ISG] (CSPModel) BEST:6.0 
+PopSize: 20 | Instance: I3
+[GA-CSP-Random-ISG] (CSPModel) BEST:6.0 
+PopSize: 20 | Instance: I4
+[GA-CSP-Random-ISG] (CSPModel) BEST:6.0 
+PopSize: 20 | Instance: I5
+[GA-CSP-Random-ISG] (CSPModel) BEST:6.0 
+PopSize: 30 | Instance: I1
+[GA-CSP-Random-ISG] (CSPModel) BEST:10.8 
+PopSize: 30 | Instance: I2
+[GA-CSP-Random-ISG] (CSPModel) BEST:9.0 
+PopSize: 30 | Instance: I3
+[GA-CSP-Random-ISG] (CSPModel) BEST:9.0 
+PopSize: 30 | Instance: I4
+[GA-CSP-Random-ISG] (CSPModel) BEST:9.0 
+PopSize: 30 | Instance: I5
+[GA-CSP-Random-ISG] (CSPModel) BEST:9.0 
+PopSize: 50 | Instance: I1
+[GA-CSP-Random-ISG] (CSPModel) BEST:8.4 
+PopSize: 50 | Instance: I2
+[GA-CSP-Random-ISG] (CSPModel) BEST:7.0 
+PopSize: 50 | Instance: I3
+[GA-CSP-Random-ISG] (CSPModel) BEST:7.0 
+PopSize: 50 | Instance: I4
+[GA-CSP-Random-ISG] (CSPModel) BEST:7.0 
+PopSize: 50 | Instance: I5
+[GA-CSP-Random-ISG] (CSPModel) BEST:2.2 
+PopSize: 100 | Instance: I1
+[GA-CSP-Random-ISG] (CSPModel) BEST:6.2 
+PopSize: 100 | Instance: I2
+[GA-CSP-Random-ISG] (CSPModel) BEST:6.0 
+PopSize: 100 | Instance: I3
+[GA-CSP-Random-ISG] (CSPModel) BEST:6.0 
+PopSize: 100 | Instance: I4
+[GA-CSP-Random-ISG] (CSPModel) BEST:6.0 
+PopSize: 100 | Instance: I5
+[GA-CSP-Random-ISG] (CSPModel) BEST:6.0 

@@ -1,0 +1,23 @@
+### IntelliJ IDEA (Senin kullandığın IDE) ###
+.idea/
+*.iml
+*.iws
+out/
+build/
+
+### VS Code (Diğer geliştiriciler için) ###
+.vscode/
+
+### Eclipse (Diğer geliştiriciler için) ###
+.classpath
+.project
+.settings/
+bin/
+
+### Mac OS (Gereksiz sistem dosyaları) ###
+.DS_Store
+
+### Proje Çıktıları ve Loglar ###
+# Deneme sonuçlarını repoda tutmak istemezsen bunu açabilirsin:
+# data/output/*.txt
+# *.log
