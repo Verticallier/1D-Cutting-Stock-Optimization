@@ -7,10 +7,10 @@ This repository presents an implementation of solution approaches for the
 The project is developed on top of a reusable **metaheuristic optimization framework**
 designed by **Assist. Prof. (PhD) Dindar Öz**.  
 All **problem-specific modeling, objective functions, heuristics, and genetic algorithm
-operators** were implemented **by the author** as part of structured coursework
+operators** were implemented **by the author** as part of structured coursework 
 assignments.
 
----
+--- 
 
 ## 📌 What Is the 1D Cutting Stock Problem?
 
