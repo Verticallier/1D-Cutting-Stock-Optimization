@@ -8,7 +8,7 @@ The project is developed on top of a reusable **metaheuristic optimization frame
 designed by **Assist. Prof. (PhD) Dindar Öz**.  
 All **problem-specific modeling, objective functions, heuristics, and genetic algorithm
 operators** were implemented **by the author** as part of structured coursework 
-assignments.
+assignments. 
 
 --- 
 
