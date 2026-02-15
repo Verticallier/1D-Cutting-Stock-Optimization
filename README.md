@@ -176,44 +176,6 @@ A smart initial solution generator.
 
 ---
 
-## 📂 Project Structure and Experimental Results
-
-All problem instances, algorithm outputs, and experimental results generated during
-the execution of the algorithms are located in the **`data/`** directory.
-
-The `data/` folder contains:
-- Input problem definitions
-- Output solutions produced by different algorithms
-- Experimental results used for performance evaluation and comparison
-
----
-## 🚀 Getting Started
-
-### Prerequisites
-- **Java Development Kit (JDK):** Version 17 or higher.
-- **IDE:** IntelliJ IDEA (Recommended) or Eclipse.
-
-### How to Run
-The project contains multiple experiment runners located in `src/experiments/CSP/`.
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/Verticallier/1D-Cutting-Stock-Optimization.git](https://github.com/Verticallier/1D-Cutting-Stock-Optimization.git)
-   ```
-2. **Open in IntelliJ IDEA.**
-
-3. **Navigate to the experiment file:**
-   - For the final comparison (HW3): src/experiments/CSP/CSPComparisonMainHW3.java
-   - For parameter tuning: src/experiments/CSP/CSPParameterTuningMain.java
-
-4. **Run the main method.**
-   - The results will be generated in the data/output/ directory (e.g., CSP_HW3_Adaptive_Final.txt).
-
----
-
-
-
-
 
 ### 🏆 Performance Highlights
 The Adaptive GA significantly outperforms the Greedy heuristic, especially in complex instances. Below is a sample comparison from **Instance 6**:
@@ -237,6 +199,43 @@ The Adaptive GA significantly outperforms the Greedy heuristic, especially in co
 | CSPGreedyHeuristic | Author (HW1) | Fast greedy baseline |
 | Standard GA (CSPRandom\*) | Author (HW2) | Classical genetic algorithm |
 | AdaptiveGA, CSPSmartISG | Author (HW3) | Adaptive and improved GA |
+
+---
+
+## 📂 Project Structure and Experimental Results
+
+All problem instances, algorithm outputs, and experimental results generated during
+the execution of the algorithms are located in the **`data/`** directory.
+
+The `data/` folder contains:
+- Input problem definitions
+- Output solutions produced by different algorithms
+- Experimental results used for performance evaluation and comparison
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- **Java Development Kit (JDK):** Version 17 or higher.
+- **IDE:** IntelliJ IDEA (Recommended) or Eclipse.
+
+### How to Run
+The project contains multiple experiment runners located in `src/experiments/CSP/`.
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/Verticallier/1D-Cutting-Stock-Optimization.git](https://github.com/Verticallier/1D-Cutting-Stock-Optimization.git)
+   ```
+2. **Open in IntelliJ IDEA.**
+
+3. **Navigate to the experiment file:**
+   - For the final comparison (HW3): src/experiments/CSP/CSPComparisonMainHW3.java
+   - For parameter tuning: src/experiments/CSP/CSPParameterTuningMain.java
+
+4. **Run the main method.**
+   - The results will be generated in the data/output/ directory (e.g., CSP_HW3_Adaptive_Final.txt).
+
 
 ---
 
