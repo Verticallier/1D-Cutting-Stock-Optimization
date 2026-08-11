@@ -258,3 +258,14 @@ The project contains multiple experiment runners located in `src/experiments/CSP
 - **IDE:** IntelliJ IDEA
 
 ---
+
+## 📄 License
+
+MIT — but only for the problem-specific work in this repository: the Cutting Stock model,
+the objective functions, the greedy heuristic, the genetic algorithm operators and the
+experiment harness.
+
+The underlying metaheuristic framework by **Assist. Prof. (PhD) Dindar Öz** is not covered
+by that license and remains his. The split is recorded class by class in
+[Framework and Contribution Breakdown](#️-framework-and-contribution-breakdown) above; see
+[`LICENSE`](LICENSE) for the exact wording.
